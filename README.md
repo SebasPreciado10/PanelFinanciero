@@ -1,3 +1,6 @@
+## Video resumen del trabajo: 
+https://youtu.be/nJgQYgQEMeo?si=7vJj_UPVX2Qjm5P2
+
 # MVP – Panel Financiero: Visualizando tus activos
 Repositorio del Equipo c16-111-n-data-bi
 
@@ -22,9 +25,6 @@ Power BI
 MySQL
 Railway
 Jira
-
-## Video resumen del trabajo: 
-https://youtu.be/nJgQYgQEMeo?si=7vJj_UPVX2Qjm5P2
 
 ## Objetivos: 
 •	Realizar un ETL completo utilizando un proveedor de Cloud. 
